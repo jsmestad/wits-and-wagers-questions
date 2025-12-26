@@ -1,35 +1,5 @@
 const gameData = [
   {
-    "category": "BE FRUITFUL & MULTIPLY",
-    "question": "4 x 12",
-    "answer": 48,
-    "original_answer_text": "48"
-  },
-  {
-    "category": "BE FRUITFUL & MULTIPLY",
-    "question": "7 x 7 x 2",
-    "answer": 98,
-    "original_answer_text": "98"
-  },
-  {
-    "category": "BE FRUITFUL & MULTIPLY",
-    "question": "3 x 4 x 5 x 6",
-    "answer": 360,
-    "original_answer_text": "360"
-  },
-  {
-    "category": "BE FRUITFUL & MULTIPLY",
-    "question": "5 x 10 x 15",
-    "answer": 750,
-    "original_answer_text": "750"
-  },
-  {
-    "category": "BE FRUITFUL & MULTIPLY",
-    "question": "2 x 1,035",
-    "answer": 2070,
-    "original_answer_text": "2,070"
-  },
-  {
     "category": "FLAG 'EM DOWN",
     "question": "The first 50-star U.S. flag was officially raised on July 4 of this year",
     "answer": 1960,
@@ -772,12 +742,6 @@ const gameData = [
     "question": "The Scrolls were found by a shepherd boy in this year, 2 years after the end of a major war",
     "answer": 1947,
     "original_answer_text": "1947"
-  },
-  {
-    "category": "ALL THINGS CONSIDERED",
-    "question": "It's 4 cubed minus 4 squared",
-    "answer": 48,
-    "original_answer_text": "48"
   },
   {
     "category": "NEARLY USELESS INFORMATION",
@@ -2789,36 +2753,7 @@ const gameData = [
     "answer": 2,
     "original_answer_text": "2"
   },
-  {
-    "category": "GIMME 5",
-    "question": "x 16",
-    "answer": 80,
-    "original_answer_text": "80"
-  },
-  {
-    "category": "GIMME 5",
-    "question": "Cubed",
-    "answer": 125,
-    "original_answer_text": "125"
-  },
-  {
-    "category": "GIMME 5",
-    "question": "x the equivalent of the Roman numeral XX",
-    "answer": 100,
-    "original_answer_text": "100"
-  },
-  {
-    "category": "GIMME 5",
-    "question": "x the number of degrees in a circle",
-    "answer": 1800,
-    "original_answer_text": "1800"
-  },
-  {
-    "category": "GIMME 5",
-    "question": "x the square root of 121",
-    "answer": 55,
-    "original_answer_text": "55"
-  },
+
   {
     "category": "NUMBER, PLEASE",
     "question": "In Jewish numerology, the Hebrew letter Aleph equals this",
@@ -3810,12 +3745,6 @@ const gameData = [
     "original_answer_text": "7"
   },
   {
-    "category": "ATTENTION!",
-    "question": "(4 x 22) divided by (11 x 8) equals this",
-    "answer": 1,
-    "original_answer_text": "1"
-  },
-  {
     "category": "LAW",
     "question": "Minimum age at which most states allow marriage without parental consent",
     "answer": 18,
@@ -3904,12 +3833,6 @@ const gameData = [
     "question": "Of 270, 2,700 or 27,000, the one closest to the total number of languages in the world",
     "answer": 2700,
     "original_answer_text": "2,700"
-  },
-  {
-    "category": "MATH",
-    "question": "156 divided by 6",
-    "answer": 26,
-    "original_answer_text": "26"
   },
   {
     "category": "MATH",
@@ -4073,36 +3996,7 @@ const gameData = [
     "answer": 25,
     "original_answer_text": "25"
   },
-  {
-    "category": "LOWEST COMMON DENOMINATOR",
-    "question": "Of 1/3 & 1/5",
-    "answer": 15,
-    "original_answer_text": "15"
-  },
-  {
-    "category": "LOWEST COMMON DENOMINATOR",
-    "question": "Of 1/4 & 1/6",
-    "answer": 12,
-    "original_answer_text": "12"
-  },
-  {
-    "category": "LOWEST COMMON DENOMINATOR",
-    "question": "Of 1/6, 1/8 & 1/12",
-    "answer": 24,
-    "original_answer_text": "24"
-  },
-  {
-    "category": "LOWEST COMMON DENOMINATOR",
-    "question": "Of 1/9 & 1/15",
-    "answer": 45,
-    "original_answer_text": "45"
-  },
-  {
-    "category": "LOWEST COMMON DENOMINATOR",
-    "question": "Of 1/2, 1/5, 1/10 & 1/12",
-    "answer": 60,
-    "original_answer_text": "60"
-  },
+
   {
     "category": "WORLD LITERATURE",
     "question": "Scheherazade told her husband stories for this many nights before he decided to let her live",
@@ -4397,30 +4291,7 @@ const gameData = [
     "answer": 3,
     "original_answer_text": "3"
   },
-  {
-    "category": "CUBE IT!",
-    "question": "2",
-    "answer": 8,
-    "original_answer_text": "8"
-  },
-  {
-    "category": "CUBE IT!",
-    "question": "3",
-    "answer": 27,
-    "original_answer_text": "27"
-  },
-  {
-    "category": "THAT'S AN UNDERSTATEMENT",
-    "question": "George Washington was popular in this year when he was both elected & first inaugurated as President",
-    "answer": 1789,
-    "original_answer_text": "1789"
-  },
-  {
-    "category": "CUBE IT!",
-    "question": "6",
-    "answer": 216,
-    "original_answer_text": "216"
-  },
+
   {
     "category": "GEOMETRY",
     "question": "A dodecahedron is a solid figure that has this many faces",
@@ -4949,36 +4820,7 @@ const gameData = [
     "answer": 75,
     "original_answer_text": "$75"
   },
-  {
-    "category": "MULTIPLE CHOICE",
-    "question": "It's the lowest common multiple of 3 & 7",
-    "answer": 21,
-    "original_answer_text": "21"
-  },
-  {
-    "category": "MULTIPLE CHOICE",
-    "question": "It's the lowest common multiple of 22 & 44",
-    "answer": 44,
-    "original_answer_text": "44"
-  },
-  {
-    "category": "MULTIPLE CHOICE",
-    "question": "It's the lowest common multiple of 5 & 14",
-    "answer": 70,
-    "original_answer_text": "70"
-  },
-  {
-    "category": "MULTIPLE CHOICE",
-    "question": "It's the lowest common multiple of 9 & 12",
-    "answer": 36,
-    "original_answer_text": "36"
-  },
-  {
-    "category": "MULTIPLE CHOICE",
-    "question": "It's the lowest common multiple of 3, 4 & 5",
-    "answer": 60,
-    "original_answer_text": "60"
-  },
+
   {
     "category": "KEGLER PARTY",
     "question": "If a kegler has bowled a perfect game in tenpins, he's racked up this many points",
@@ -5081,36 +4923,7 @@ const gameData = [
     "answer": 40,
     "original_answer_text": "40"
   },
-  {
-    "category": "MATH",
-    "question": "Sixty-six plus thirty-two",
-    "answer": 98,
-    "original_answer_text": "98"
-  },
-  {
-    "category": "MATH",
-    "question": "One-hundred-forty-eight divided by four",
-    "answer": 37,
-    "original_answer_text": "37"
-  },
-  {
-    "category": "MATH",
-    "question": "Seventy-three minus fourteen",
-    "answer": 59,
-    "original_answer_text": "59"
-  },
-  {
-    "category": "MATH",
-    "question": "Seventeen times six",
-    "answer": 102,
-    "original_answer_text": "102"
-  },
-  {
-    "category": "MATH",
-    "question": "Twenty-three plus eight minus sixteen",
-    "answer": 15,
-    "original_answer_text": "15"
-  },
+
   {
     "category": "LITERARY CLASSICS",
     "question": "The Ministry of Truth is Oceania's propaganda department in this Orwell classic with a year as the title",
@@ -5135,36 +4948,7 @@ const gameData = [
     "answer": 150,
     "original_answer_text": "150"
   },
-  {
-    "category": "MULTIPLY BY 5, DIVIDE BY 2, ADD 3",
-    "question": "2",
-    "answer": 8,
-    "original_answer_text": "8"
-  },
-  {
-    "category": "MULTIPLY BY 5, DIVIDE BY 2, ADD 3",
-    "question": "10",
-    "answer": 28,
-    "original_answer_text": "28"
-  },
-  {
-    "category": "MULTIPLY BY 5, DIVIDE BY 2, ADD 3",
-    "question": "16",
-    "answer": 43,
-    "original_answer_text": "43"
-  },
-  {
-    "category": "MULTIPLY BY 5, DIVIDE BY 2, ADD 3",
-    "question": "60",
-    "answer": 153,
-    "original_answer_text": "153"
-  },
-  {
-    "category": "MULTIPLY BY 5, DIVIDE BY 2, ADD 3",
-    "question": "50,000",
-    "answer": 125003,
-    "original_answer_text": "125,003"
-  },
+
   {
     "category": "ISSUE NO. 1",
     "question": "Logically enough, the 1933 cover of the first News-Week (sic) had not 1 but this many photos",
@@ -5230,12 +5014,6 @@ const gameData = [
     "question": "It's 1/4 of 100",
     "answer": 25,
     "original_answer_text": "25"
-  },
-  {
-    "category": "'RITHMETIC",
-    "question": "It's 2128 divided by 7",
-    "answer": 304,
-    "original_answer_text": "304"
   },
   {
     "category": "'RITHMETIC",
@@ -5620,12 +5398,6 @@ const gameData = [
     "question": "Number of sides on a pentagon multiplied by the number of sides on a hexagon",
     "answer": 30,
     "original_answer_text": "30"
-  },
-  {
-    "category": "YOU DO THE MATH",
-    "question": "49 plus 22 minus 33 plus 11",
-    "answer": 49,
-    "original_answer_text": "49"
   },
   {
     "category": "YOU DO THE MATH",
@@ -6390,30 +6162,6 @@ const gameData = [
     "original_answer_text": "2"
   },
   {
-    "category": "YOU DO THE MATH",
-    "question": "1 x 2 x 4 x 8 x 10",
-    "answer": 640,
-    "original_answer_text": "640"
-  },
-  {
-    "category": "YOU DO THE MATH",
-    "question": "1111 plus 2222 plus 3333, divided by 6",
-    "answer": 1111,
-    "original_answer_text": "1111"
-  },
-  {
-    "category": "YOU DO THE MATH",
-    "question": "100 divided by 4, times 3, divided by 5",
-    "answer": 15,
-    "original_answer_text": "15"
-  },
-  {
-    "category": "YOU DO THE MATH",
-    "question": "1/2 plus 1/3 plus 1/10 plus 1/15",
-    "answer": 1,
-    "original_answer_text": "1"
-  },
-  {
     "category": "ARROWS",
     "question": "On the Great Seal of the U.S., the eagle holds this many arrows in its left talon",
     "answer": 13,
@@ -6478,12 +6226,6 @@ const gameData = [
     "question": "Thomas Paine First published \"Common Sense\" in this appropriate year",
     "answer": 1776,
     "original_answer_text": "1776"
-  },
-  {
-    "category": "HOPE YOU STAYED AWAKE IN MATH",
-    "question": "75% of 200 plus 200% of 75 equals this",
-    "answer": 300,
-    "original_answer_text": "300"
   },
   {
     "category": "HOPE YOU STAYED AWAKE IN MATH",
@@ -6947,24 +6689,7 @@ const gameData = [
     "answer": 1868,
     "original_answer_text": "1868"
   },
-  {
-    "category": "GO FIGURE",
-    "question": "55 + 25 - 5",
-    "answer": 75,
-    "original_answer_text": "75"
-  },
-  {
-    "category": "GO FIGURE",
-    "question": "3 x 7 x 11",
-    "answer": 231,
-    "original_answer_text": "231"
-  },
-  {
-    "category": "GO FIGURE",
-    "question": "325 <big>&divide;</big> 5 <big>&divide;</big> 5",
-    "answer": 13,
-    "original_answer_text": "13"
-  },
+
   {
     "category": "SPORTS NUMBERS",
     "question": "Points for a touchdown plus a 2-point conversion",
@@ -8428,12 +8153,6 @@ const gameData = [
     "question": "It's the sum of any integer & its negative",
     "answer": 0,
     "original_answer_text": "0"
-  },
-  {
-    "category": "YOU DO THE MATH",
-    "question": "It's 44 plus 7, minus 23, times 10 divided by 2",
-    "answer": 140,
-    "original_answer_text": "140"
   },
   {
     "category": "YOU DO THE MATH",
@@ -9977,35 +9696,13 @@ const gameData = [
     "answer": 22,
     "original_answer_text": "22"
   },
-  {
-    "category": "PLUS 8",
-    "question": "12 squared plus 8",
-    "answer": 152,
-    "original_answer_text": "152"
-  },
-  {
-    "category": "PLUS 8",
-    "question": "2011 x 3 plus 8",
-    "answer": 6041,
-    "original_answer_text": "6,041"
-  },
-  {
-    "category": "PLUS 8",
-    "question": "5 x 6 x 7 plus 8",
-    "answer": 218,
-    "original_answer_text": "218"
-  },
+
+
   {
     "category": "PLUS 8",
     "question": "Number of days in a leap year times 2 plus 8",
     "answer": 740,
     "original_answer_text": "740"
-  },
-  {
-    "category": "PLUS 8",
-    "question": "20 cubed plus 20 squared  plus 8",
-    "answer": 8408,
-    "original_answer_text": "8,408"
   },
   {
     "category": "WHEN DID IT HAPPEN?",
